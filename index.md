@@ -1,10 +1,7 @@
 ---
-title: Home
+title: Pete Thomas
 layout: default
 ---
-
-Pete Thomas
-===========
     
 About me
 -------- 

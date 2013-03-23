@@ -3,9 +3,6 @@ title: Links
 layout: default
 ---
 
-Links
-=====
-
 Friends
 -------
 

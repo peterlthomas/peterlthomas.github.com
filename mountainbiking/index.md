@@ -4,9 +4,6 @@ layout: default
 ---
 
 Mountain Biking
-===============
-       
-Mountain Biking
 ---------------
 		
 <img src="images/IMG_3305.JPG" alt="Jump" height="255" width="350" border="0"/>
